@@ -49,8 +49,7 @@ node as illustrated in the example "fontain.scn" below:
 The core of this plugin is the Sofa Python module available to python
 scripts from within the SofaPython components (they are not available
 outside Sofa environment, in the command-line python binary for
-example). ** style="text-decoration: underline;">Any python
-script** (fontain.py) embedded in SOFA should include the
+example). `<span style="text-decoration: underline;">Any python script</span>`(fontain.py) embedded in SOFA should include the
 following line if it wants to interact with the SOFA framework:
 
     import sofa
